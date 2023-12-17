@@ -15,7 +15,7 @@ You need to have Docker Desktop installed on your machine.
 
 To install the project, follow these steps:
 
-1. Clone the repository: git clone 
+1. Clone the repository: git clone https://github.com/varunisood06/gofr-lib.git
 2. Navigate to the project directory: cd go-project
 3. Download the dependencies: go get .
 4. Run the following commands in a terminal to create a table in MySQL docker image
